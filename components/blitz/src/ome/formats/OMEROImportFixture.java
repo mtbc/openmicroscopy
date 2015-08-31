@@ -6,7 +6,6 @@
  */
 package ome.formats;
 
-// Java imports
 import java.io.File;
 import java.util.List;
 

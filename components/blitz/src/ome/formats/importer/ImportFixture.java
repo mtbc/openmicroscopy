@@ -12,7 +12,6 @@
  */
 package ome.formats.importer;
 
-// Java imports
 import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
@@ -28,12 +27,9 @@ import org.slf4j.LoggerFactory;
  * test fixture for importing files without a GUI.
  *
  * @author Josh Moore, josh.moore at gmx.de
- * @version $Revision: 1167 $, $Date: 2006-12-15 10:39:34 +0000 (Fri, 15 Dec 2006) $
  * @see OMEROMetadataStoreClient
  * @since 3.0-M3
  */
-// @RevisionDate("$Date: 2006-12-15 10:39:34 +0000 (Fri, 15 Dec 2006) $")
-// @RevisionNumber("$Revision: 1167 $")
 public class ImportFixture
 {
 
